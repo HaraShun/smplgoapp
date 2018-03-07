@@ -1,1 +1,1 @@
-docker run --rm -p 8080:8080 goapptest:v1
+docker run --rm -p 80:80 goapptest:v1
